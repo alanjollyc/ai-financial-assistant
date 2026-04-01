@@ -1,0 +1,46 @@
+name,amount,category,date
+Tea,20,Food,2024-10-02
+Breakfast,60,Food,2024-10-03
+Bus Fare,40,Travel,2024-10-03
+Lunch,120,Food,2024-10-04
+Groceries,850,Shopping,2024-10-05
+Mobile Recharge,299,Bills,2024-10-06
+Movie Ticket,250,Entertainment,2024-10-07
+Dinner,180,Food,2024-10-08
+Auto Fare,90,Travel,2024-10-09
+Snacks,50,Food,2024-10-10
+Rent October,8500,Rent,2024-10-01
+Electricity Bill,620,Bills,2024-10-11
+Internet Bill,799,Bills,2024-10-12
+Clothes Shopping,1200,Shopping,2024-10-13
+Coffee,45,Food,2024-10-14
+Tea,20,Food,2024-11-01
+Breakfast,70,Food,2024-11-02
+Bus Fare,50,Travel,2024-11-02
+Lunch,140,Food,2024-11-03
+Groceries,920,Shopping,2024-11-04
+Mobile Recharge,299,Bills,2024-11-05
+Movie Ticket,300,Entertainment,2024-11-06
+Dinner,200,Food,2024-11-07
+Auto Fare,100,Travel,2024-11-08
+Snacks,60,Food,2024-11-09
+Rent November,8500,Rent,2024-11-01
+Electricity Bill,680,Bills,2024-11-10
+Internet Bill,799,Bills,2024-11-11
+Shoes Purchase,1800,Shopping,2024-11-12
+Coffee,50,Food,2024-11-13
+Tea,25,Food,2024-12-01
+Breakfast,80,Food,2024-12-02
+Bus Fare,50,Travel,2024-12-02
+Lunch,150,Food,2024-12-03
+Groceries,1100,Shopping,2024-12-04
+Mobile Recharge,299,Bills,2024-12-05
+OTT Subscription,499,Entertainment,2024-12-06
+Dinner,220,Food,2024-12-07
+Auto Fare,120,Travel,2024-12-08
+Snacks,70,Food,2024-12-09
+Rent December,8500,Rent,2024-12-01
+Electricity Bill,710,Bills,2024-12-10
+Internet Bill,799,Bills,2024-12-11
+Gift Shopping,2500,Shopping,2024-12-12
+Coffee,60,Food,2024-12-13

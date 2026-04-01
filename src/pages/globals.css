@@ -1,0 +1,55 @@
+/* Color Theme Variables */
+.theme-blue {
+  --primary: 59 130 246;
+  --primary-foreground: 255 255 255;
+}
+
+.theme-emerald {
+  --primary: 16 185 129;
+  --primary-foreground: 255 255 255;
+}
+
+.theme-purple {
+  --primary: 139 92 246;
+  --primary-foreground: 255 255 255;
+}
+
+.theme-rose {
+  --primary: 244 63 94;
+  --primary-foreground: 255 255 255;
+}
+
+.theme-amber {
+  --primary: 245 158 11;
+  --primary-foreground: 0 0 0;
+}
+
+.theme-indigo {
+  --primary: 99 102 241;
+  --primary-foreground: 255 255 255;
+}
+
+/* Apply theme colors to gradients and special elements */
+.theme-blue .bg-gradient-to-r.from-primary {
+  --tw-gradient-from: rgb(59 130 246 / var(--tw-gradient-from-opacity));
+}
+
+.theme-emerald .bg-gradient-to-r.from-primary {
+  --tw-gradient-from: rgb(16 185 129 / var(--tw-gradient-from-opacity));
+}
+
+.theme-purple .bg-gradient-to-r.from-primary {
+  --tw-gradient-from: rgb(139 92 246 / var(--tw-gradient-from-opacity));
+}
+
+.theme-rose .bg-gradient-to-r.from-primary {
+  --tw-gradient-from: rgb(244 63 94 / var(--tw-gradient-from-opacity));
+}
+
+.theme-amber .bg-gradient-to-r.from-primary {
+  --tw-gradient-from: rgb(245 158 11 / var(--tw-gradient-from-opacity));
+}
+
+.theme-indigo .bg-gradient-to-r.from-primary {
+  --tw-gradient-from: rgb(99 102 241 / var(--tw-gradient-from-opacity));
+}
